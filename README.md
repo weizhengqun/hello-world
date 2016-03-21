@@ -1,2 +1,4 @@
-# hello-world
-First demo project
+# Hello-world
+First demo project, learn Github usage!
+
+Zhengqun Wei
